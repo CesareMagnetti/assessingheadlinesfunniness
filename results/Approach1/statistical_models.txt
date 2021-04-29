@@ -1,0 +1,1 @@
+{"Random\nForest": 0.5728618792377902, "AdaBoost": 0.5821526233204645, "Linear\nRegression": 0.5581093389111477, "Linear\nSupport\nVector\nRegressor": 0.5638664786863824, "rbf\nSupport\nVector\nRegressor": 0.5671342617708522, "rbf\nGaussian\nProcess": 0.6780719519084437}
